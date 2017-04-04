@@ -1,0 +1,19 @@
+{
+  "name": "node_bot_tutorial",
+  "version": "1.0.0",
+  "description": "Bot for node.js tutorial made by Microsoft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "node"
+  ],
+  "author": "J. Perron",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
